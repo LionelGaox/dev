@@ -9,6 +9,7 @@
 1. VMACD
 2. 波动率 + z-score
 3. RSI指标
+4. 周MACD利润
 
 ### 通用接口定义
 
